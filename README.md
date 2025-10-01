@@ -7,18 +7,22 @@
 </p> 
 
 
-<h3 align="center"> 
+<!--- <h3 align="center"> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a>Hello!, I'am Ajie - an Novice network engineer, im also like software development <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
-</h3> 
+</h3> -->
 
-
-
+<p align="center">
+  <a href="https://ajie.is-a.dev/">
+    <img src="https://cdn-cf.ajieblogs.eu.org/img/ajie-is-adev.gif" alt="Subject Details" width="500">
+  </a>
+</p>
 
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently doing ok... </img>
 
 [![jiecord](https://discord.c99.nl/widget/theme-3/867303900884893727.png)](https://dsc.gg/ajidevserver) <br />
 [![jiecordsrv](https://discord.com/api/guilds/993867537337024565/widget.png?style=banner2)](https://dsc.gg/ajidevserver)
+
 
 ##### MY STATS
 
