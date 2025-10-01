@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://ajie.is-a.dev/">
-    <img src="https://cdn-cf.ajieblogs.eu.org/img/ajie-is-adev.gif" alt="Subject Details" width="500">
+    <img src="ajie-is-adev.gif" alt="Subject Details" width="500">
   </a>
 </p>
 
