@@ -20,8 +20,8 @@
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently doing ok... </img>
 
-[![jiecord](https://discord.c99.nl/widget/theme-3/867303900884893727.png)](https://dsc.gg/ajidevserver) <br />
-[![jiecordsrv](https://discord.com/api/guilds/993867537337024565/widget.png?style=banner3)](https://dsc.gg/ajidevserver)
+[![jiecord](https://us1.ajieblogs.eu.org/cdn/img/public/personal/867303900884893727.png)](https://dsc.gg/ajidevserver) <br />
+[![jiecordsrv](https://us1.ajieblogs.eu.org/cdn/img/public/ajiedevserver/server_stats.png)](https://dsc.gg/ajidevserver)
 
 
 ##### MY STATS
