@@ -20,8 +20,8 @@
 ##### NOW
 - 👁 Makes you restless
 
-[![jiecord](https://us1-cdn.liannovacommunity.qzz.io/cdn/img/public/personal/867303900884893727.png)](https:/seretia.link/discord) <br />
-[![jiecordsrv](https://us1-cdn.liannovacommunity.qzz.io/cdn/img/public/ajiedevserver/server_stats.png)](https:/seretia.link/discord)
+[![jiecord](https://us1-cdn.liannovacommunity.qzz.io/cdn/img/public/personal/867303900884893727.png)](https://seretia.link/discord) <br />
+[![jiecordsrv](https://us1-cdn.liannovacommunity.qzz.io/cdn/img/public/ajiedevserver/server_stats.png)](https://seretia.link/discord)
 
 
 ##### MY STATS
@@ -34,7 +34,7 @@
 </h3>
     
 <p align="center">
-    <a href="https:/seretia.link/discord" target="_blank"><img alt="Discord Server" width="25px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg"></a>
+    <a href="https://seretia.link/discord" target="_blank"><img alt="Discord Server" width="25px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg"></a>
  <!--   <a href="https://www.facebook.com/ajiedev.co" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a> -->
     <a href="mailto:ajiedev@serenetia.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
